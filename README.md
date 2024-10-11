@@ -16,7 +16,7 @@ A web application that enables users to record, replay, and manage text input se
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/replay-manager.git
+   git clone https://github.com/Sanghanmol/Text-Tracker.git
    
 2. Navigate to the project directory.
 3. Open index.html in your web browser to run the application.
